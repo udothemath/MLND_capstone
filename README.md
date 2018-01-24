@@ -1,11 +1,11 @@
 ## Notebook:
-capstone_project_v0_data_prep.ipynb
-capstone_project_v1_data_exploratory.ipynb
-capstone_project_v2_features_engineering.ipynb
-capstone_project_v3_apply_model_m1_DecisionTree_with_norm.ipynb
-capstone_project_v3_apply_model_m1_DecisionTree_without_norm.ipynb
-capstone_project_v3_apply_model_m2_Methods_Comparison.ipynb  
-capstone_project_v4_apply_model_optimal.ipynb
+- capstone_project_v0_data_prep.ipynb  
+- capstone_project_v1_data_exploratory.ipynb
+- capstone_project_v2_features_engineering.ipynb
+- capstone_project_v3_apply_model_m1_DecisionTree_with_norm.ipynb
+- capstone_project_v3_apply_model_m1_DecisionTree_without_norm.ipynb
+- capstone_project_v3_apply_model_m2_Methods_Comparison.ipynb  
+- capstone_project_v4_apply_model_optimal.ipynb
 
 Note: As long as the previous steps have been executed, the subsequent step should run without any issue (Run v0, v1, and v2 first to get the imput dataset for v3). In each Notebook, the procedures are decribed with the comments and the parameters are self-explanatory.
 
